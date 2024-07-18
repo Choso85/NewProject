@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - background
   - bullet
   - PlayerBullet
+  - Enemy
+  - player
+  - Boost
   layers:
   - Default
   - TransparentFX
